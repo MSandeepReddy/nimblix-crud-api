@@ -22,7 +22,7 @@ A Java Spring Boot REST API for managing employee records, featuring MySQL integ
 ### Sample JSON
 ```json
 {
-    "employeeId": "NIMB-101",
-    "name": "Sandeep Kumar Reddy",
-    "email": "sandeep.reddy@nimblix.com"
+    "employeeId": "NTIT1390",
+    "name": "Sandeep Kumar Reddy M",
+    "email": "sandeepreddy@nimblix.com"
 }
